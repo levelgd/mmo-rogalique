@@ -1,0 +1,16 @@
+{
+  "name": "dvach",
+  "version": "0.1.0",
+  "dependencies":{
+    "express": "~4.13.x",
+    "ws":"~0.8.x"
+  },
+  "author": {
+    "name": "lvlgd",
+    "email": "levelgd@gmail.com"
+  },
+  "main":"dvach_server.js",
+  "scripts":{
+    "start":"node dvach_server.js"
+  }
+}

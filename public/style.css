@@ -1,0 +1,30 @@
+body{
+    background-color:#EEEEEE;
+    color:#333333;
+    font-family: Verdana,sans-serif;
+    font-size:0.9em;
+}
+a{
+    color: #FF6600;
+}
+.menu a{
+    font-size: 10px;
+}
+.menu{
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    left: 0;
+    top: 2px;
+}
+#chat{
+    position: relative;
+    display: none;
+}
+#chatinput{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
